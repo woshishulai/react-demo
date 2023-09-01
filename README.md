@@ -17,3 +17,5 @@ npx prettier --write "src/**/*.vue"
 npx prettier --write "src/**/*.tsx"
 
 npx prettier --write "src/**/*.jsx"
+
+## less +redux +router +aixos + i18n
