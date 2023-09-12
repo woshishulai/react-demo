@@ -18,6 +18,7 @@ function Home() {
                 <button onClick={() => dispatch(increment())}>加加</button>
                 <button onClick={() => dispatch(decrement())}>减减</button>
                 <button onClick={() => dispatch(incrementByAmount(3))}>自定义</button>
+                <div>hello world</div>
             </div>
         </>
     );
